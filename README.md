@@ -4,6 +4,12 @@ See the usual slides PDF here. It is a lecture in two parts:
 
 ### Part 1: smart pointers (cont'd)
 
+
+`Slide 01` [Part 01. Recall Smart Pointers](https://ensemble.reed.edu/Watch/n7KGp6y4) *10m15s*  
+`Slide 17` [Part 02. `shared_ptr` Box](https://ensemble.reed.edu/Watch/By57GwDx) *04m00s*  
+`Slide 27` [Part 03. Singly Link List](https://ensemble.reed.edu/Watch/g4PKf62E) *10m45s*  
+`Slide 45` [Part 04. Doubly Linked List](https://ensemble.reed.edu/Watch/Lk5y2R3E) *08m00s*  
+
 The `samples` folder from the last lecture contains the singly-linked
 list code `llist.cc`.  It also contains three versions of a
 doubly-linked list. One of these, named `dbllist_bad.cc` is
